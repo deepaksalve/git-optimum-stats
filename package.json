@@ -1,0 +1,28 @@
+{
+  "name": "git-optimum-stats",
+  "version": "0.1.0",
+  "description": "Simple utility to get the optimum summary of your git repository.",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepaksalve/git-optimum-stats.git"
+  },
+  "keywords": [
+    "git",
+    "repository",
+    "author",
+    "commit",
+    "hash-as-html-class",
+    "git-tag-as-html-class",
+    "git-stats"
+  ],
+  "author": "Deepak Salve <deepaksalve219@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deepaksalve/git-optimum-stats/issues"
+  },
+  "homepage": "https://github.com/deepaksalve/git-optimum-stats#readme",
+  "engines": {
+    "node": ">6.0.0"
+  }
+}
